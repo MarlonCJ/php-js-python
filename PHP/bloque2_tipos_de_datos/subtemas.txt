@@ -1,0 +1,15 @@
+
+🔷 BLOQUE 2 — TIPOS DE DATOS
+
+🎯 OBJETIVO:
+
+Comprender cómo se representan, almacenan y manipulan los datos en programación.
+Sin dominio de tipos de datos → no hay lógica sólida.
+
+📚 SUBTEMAS:
+
+Tipos primitivos
+Tipos compuestos
+Conversión de datos
+Tipado en cada lenguaje
+Uso en sistemas reales
